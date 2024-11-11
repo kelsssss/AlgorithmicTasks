@@ -1,3 +1,5 @@
+import solutions.num2
+
 fun main(){
-    num1()
+    num2()
 }
